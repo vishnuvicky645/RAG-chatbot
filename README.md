@@ -193,15 +193,15 @@ Webhook (Chat Message Received)
 
 **Ingestion Workflow (n8n canvas)**
 
-![Ingestion workflow screenshot](screenshots/ingestion-workflow.png)
+![Ingestion workflow screenshot](ingestion-workflow.png)
 
 **Chat Workflow (n8n canvas)**
 
-![Chat workflow screenshot](screenshots/chat-workflow.png)
+![Chat workflow screenshot](chat-workflow.png)
 
 **Sample Chat Interaction**
 
-![Chat response screenshot](screenshots/sample-chat-response.png)
+![Chat response screenshot](chat-response.png)
 
 ---
 
