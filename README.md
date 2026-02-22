@@ -190,7 +190,6 @@ Webhook (Chat Message Received)
 
 ## 8. Screenshots
 
-> _Add screenshots of your n8n workflows and sample chat responses below._
 
 **Ingestion Workflow (n8n canvas)**
 
